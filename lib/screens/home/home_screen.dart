@@ -11,6 +11,7 @@ class HomeScreen extends StatelessWidget {
     return const Scaffold(
       appBar: CustomAppBar(
         title: 'Shop App1',
+        
       ),
       bottomNavigationBar: customNavBar(),
     );
